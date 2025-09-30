@@ -1,6 +1,8 @@
 # Lab2web
 Putra Hengki Trio Zebua
+
 312410652
+
 Laporan pratikum
 1.	Membuat dokumen HTML
    <img width="1916" height="1013" alt="Cuplikan layar 2025-09-30 183957" src="https://github.com/user-attachments/assets/0553a01e-ddcb-4b40-b9a5-9b71c8a1ad73" />
