@@ -1,7 +1,7 @@
 # Lab2web
-Putra Hengki Trio Zebua
+Nama:Putra Hengki Trio Zebua
 
-312410652
+Nim:312410652
 
 Laporan pratikum
 1.	Membuat dokumen HTML
